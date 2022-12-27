@@ -2,7 +2,8 @@
 
 <div id="githubstats">
   <a href="https://github.com/mattguimma">
-  <img width="580px" src="https://github-readme-stats.vercel.app/api?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false&">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false">
+  <img width="358px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false">
 </div>
 
 ### 📧 Find me in social media!
