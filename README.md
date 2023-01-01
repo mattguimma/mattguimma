@@ -1,5 +1,9 @@
 ## 🌿 Hello world, i'm Mattheus!
 
+Sou um estudante, desenvolvedor júnior com curso técnico completo em Desenvolvimento de Sistemas pelo Colégio Pedro II, no Rio de Janeiro. No momento volto meus estudos para o desenvolvimento web, principalmente para linguagens de programação como PHP, JavaScript e seus frameworks. Ainda possuo experiência em outras linguagens como C++ e C-Sharp.
+
+Estou à procura de um emprego para júnior com foco em desenvolvimento web e semelhantes.
+
 <div id="githubstats">
   <a href="https://github.com/mattguimma">
   <img width="480px" src="https://github-readme-stats.vercel.app/api?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false">
@@ -28,15 +32,3 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
   </a>
 </div>
-
-<!--
-<div id="usedlanguages">
-  <img class="lang" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
-  <img class="lang" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
-  <img class="lang" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img class="lang" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img class="lang" height="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img class="lang" height="62px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img class="lang" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-</div>
--->
