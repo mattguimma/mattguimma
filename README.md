@@ -6,8 +6,8 @@ Estou à procura de um emprego para júnior com foco em desenvolvimento web e se
 
 <div id="githubstats">
   <a href="https://github.com/mattguimma">
-  <img width="480px" src="https://github-readme-stats.vercel.app/api?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false">
-  <img width="344px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false">
+  <img width="490px" src="https://github-readme-stats.vercel.app/api?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattguimma&theme=merko&show_icons=true&hide_border=true&text_bold=false">
 </div>
 
 ### 📧 Find me in social media!
