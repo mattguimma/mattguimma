@@ -12,11 +12,11 @@ Estou à procura de um emprego para júnior com foco em desenvolvimento web e se
 
 ### 📧 Find me in social media!
 <div id="socnetwork">
-  <a href="mailto:guim.ttheus@gmail.com" target="_blank"> 
+  <a href="mailto:mattguimma@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
   
-  <a href="https://www.linkedin.com/in/guimatt/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/mattguimma/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
   </a>
   
